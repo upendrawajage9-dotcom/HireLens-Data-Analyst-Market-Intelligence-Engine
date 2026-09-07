@@ -3,6 +3,13 @@
 > **Decode the job market. Know your worth. Learn what matters next.**  
 > An award-grade, cinematic market intelligence platform engineered for data analysts to decode hiring demand, skill synergies, compensation trajectories, and AI-driven job descriptions across 1,000+ verified roles.
 
+🔗 **Live Demo**: [https://hirlens.vercel.app/](https://hirlens.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-hirlens.vercel.app-06D6F5?style=for-the-badge&logo=vercel&logoColor=black)](https://hirlens.vercel.app/)
+[![Next.js 16](https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white)](https://hirlens.vercel.app/)
+[![Three.js](https://img.shields.io/badge/Three.js-040609?style=for-the-badge&logo=three.js&logoColor=white)](https://hirlens.vercel.app/)
+[![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://hirlens.vercel.app/)
+
 ---
 
 ## 🌐 Live System Architecture
