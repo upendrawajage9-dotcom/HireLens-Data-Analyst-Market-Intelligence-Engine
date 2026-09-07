@@ -85,12 +85,4 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📦 Deployment Guide
 
-### Deploy to Vercel (Recommended)
-
-1. Push code to GitHub.
-2. Link the repository on [Vercel](https://vercel.com).
-3. Set **Environment Variables**:
-   - `GEMINI_API_KEY`: your Gemini API key
-4. Deploy!
